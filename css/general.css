@@ -71,7 +71,8 @@ body {
 
 /* GENERAL COMPONENTS */
 .heading-primary,
-.heading-secondary {
+.heading-secondary,
+.heading-tertiary {
   font-weight: 700;
   letter-spacing: -0.5px;
   color: #333;
@@ -87,6 +88,12 @@ body {
   font-size: 4.4rem;
   line-height: 1.2;
   margin-bottom: 9.6rem;
+}
+
+.heading-tertiary {
+  font-size: 3.6rem;
+  line-height: 1.2;
+  margin-bottom: 3.2rem;
 }
 
 .subheading {
