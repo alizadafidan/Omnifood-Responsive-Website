@@ -319,3 +319,14 @@
   font-size: 1.6rem;
   color: #777;
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.6rem;
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+}
