@@ -402,6 +402,14 @@
   margin-top: 4.8rem;
 }
 
+.plan-details {
+  font-size: 1.6rem;
+  line-height: 1.6;
+  text-align: center;
+  color: #777;
+  margin-bottom: 9.6rem;
+}
+
 .feature-icon {
   color: #e67e22;
   height: 3.2rem;
@@ -421,5 +429,3 @@
   font-size: 1.8rem;
   line-height: 1.8;
 }
-
-.
