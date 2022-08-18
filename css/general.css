@@ -219,6 +219,15 @@ body {
   color: #e67e22;
 }
 
+*:focus {
+  outline: none;
+  /*First way*/
+  /* outline: 2px dotted #45260a;
+  outline-offset: 8px; */
+  /*Using box-shadow*/
+  box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
+}
+
 /*HELPER CLASSES*/
 
 .margin-right-sm {
