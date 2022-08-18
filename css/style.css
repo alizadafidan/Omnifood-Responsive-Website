@@ -506,3 +506,9 @@
   outline: none;
   box-shadow: 0 0 0 0.8rem #fdf2e9;
 }
+
+/*FOOTER*/
+
+.sectiofooter {
+  padding: 9.6rem 0;
+}
