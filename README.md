@@ -1,6 +1,6 @@
 # Omnifood-Responsive-Website
 
-This responsive built with HTML, CSS and Javascript. 
+This responsive website built with HTML, CSS and Javascript. 
 
 Use this link to visit the page:
 https://omnifood-website-chi.vercel.app/
