@@ -1,4 +1,9 @@
-///////////////////////////////////////////////////////////
+//Automate website's copyright year
+const h1 = document.querySelector(".heading-primary");
+const yearEl = document.querySelector(".year");
+const currentYear = new Date().getFullYear();
+yearEl.textContent = currentYear;
+
 // Fixing flexbox gap property missing in some Safari versions
 function checkFlexGap() {
   var flex = document.createElement("div");
